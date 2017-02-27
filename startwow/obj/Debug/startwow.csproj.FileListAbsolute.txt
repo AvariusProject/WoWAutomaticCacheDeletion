@@ -1,0 +1,6 @@
+J:\One Drive\OneDrive\Vs Projects\startwow\startwow\bin\Debug\startwow.exe.config
+J:\One Drive\OneDrive\Vs Projects\startwow\startwow\bin\Debug\startwow.exe
+J:\One Drive\OneDrive\Vs Projects\startwow\startwow\bin\Debug\startwow.pdb
+J:\One Drive\OneDrive\Vs Projects\startwow\startwow\obj\Debug\startwow.csprojResolveAssemblyReference.cache
+J:\One Drive\OneDrive\Vs Projects\startwow\startwow\obj\Debug\startwow.exe
+J:\One Drive\OneDrive\Vs Projects\startwow\startwow\obj\Debug\startwow.pdb

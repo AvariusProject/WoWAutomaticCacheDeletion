@@ -1,0 +1,5 @@
+J:\One Drive\OneDrive\Vs Projects\startwow\startwow\bin\Release\startwow.exe.config
+J:\One Drive\OneDrive\Vs Projects\startwow\startwow\bin\Release\startwow.exe
+J:\One Drive\OneDrive\Vs Projects\startwow\startwow\bin\Release\startwow.pdb
+J:\One Drive\OneDrive\Vs Projects\startwow\startwow\obj\Release\startwow.exe
+J:\One Drive\OneDrive\Vs Projects\startwow\startwow\obj\Release\startwow.pdb
