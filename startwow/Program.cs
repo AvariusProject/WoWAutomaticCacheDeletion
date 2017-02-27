@@ -26,7 +26,6 @@ namespace startwow
                     Console.WriteLine("Folder deleted: " + folder);
 
                     Process.Start("wow.exe");
-                    Console.Read();
                 }
 
                 else
