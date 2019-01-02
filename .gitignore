@@ -1,3 +1,4 @@
 .vs/
-startwow/*
+startwow/bin/*
+startwow/obj/*
 .DS_Store
